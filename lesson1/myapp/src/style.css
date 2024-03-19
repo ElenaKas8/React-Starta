@@ -1,0 +1,19 @@
+
+
+.test{
+    padding: 20px;
+    background-color: #86c4ee;
+}
+
+@media (max-width: 600px) {
+    .test{
+        background-color: rgb(141, 230, 154);
+    }
+}
+
+.post{
+    padding: 20px;
+    background-color: #d8d98e;
+    margin: 15px;
+    border-radius: 15px ;
+}
